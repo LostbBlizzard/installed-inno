@@ -1,0 +1,1 @@
+This is a Copy of inno setup after installing so i can git clone this in my projects to use.
